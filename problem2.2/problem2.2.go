@@ -7,8 +7,6 @@ func FaktorBilanganDesc(n int) string {
 }
 
 func main() {
-	fmt.Println("Hello Wolrd")
-
 	var number int
 	fmt.Scanf("%d", &number)
 	fmt.Println(FaktorBilanganDesc(number))
