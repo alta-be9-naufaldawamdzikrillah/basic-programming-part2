@@ -6,7 +6,7 @@ clone project ini dengan cara
 git clone https://github.com/jackthepanda96/Intro-to-Algoritm-Part2.git
 ```
 
-setelah clone selesai, pindah ke folder hasil clone
+`setelah clone selesai, pindah ke folder hasil clone` -> HAL INI DILAKUKAN 1x saja
 
 lalu jalankan 
 
