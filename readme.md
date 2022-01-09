@@ -3,7 +3,7 @@
 clone project ini dengan cara
 
 ```
-git clone https://github.com/jackthepanda96/Intro-to-Algoritm-Part2.git
+git clone https://github.com/Immersive-Backend-Resource/Basic-Programming-Part2.git
 ```
 
 setelah clone selesai, jalankan perintah `cd Intro-to-Algoritm-Part2` -->  **HAL INI DILAKUKAN 1x saja**
