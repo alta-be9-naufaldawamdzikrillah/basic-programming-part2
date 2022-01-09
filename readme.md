@@ -21,7 +21,7 @@ setelah menjalankan perintah diatas, lakukan inisialisasi ulang untuk git dengan
 git init
 ```
 
-buat repository pada github organization kalian dengan format: `Basic-Programming-Day2`
+buat repository pada github organization kalian dengan format: `Basic-Programming-Part2`
 
 ## Tatacara Mengerjakan Tugas
 

@@ -7,7 +7,9 @@ func Palindrome(input string) bool {
 }
 
 func main() {
-	fmt.Println(Palindrome("kasur rusak"))
-	fmt.Println(Palindrome("civic"))
-	fmt.Println(Palindrome("kasur"))
+	fmt.Println(Palindrome("civic"))       // true
+	fmt.Println(Palindrome("katak"))       // true
+	fmt.Println(Palindrome("kasur rusak")) // true
+	fmt.Println(Palindrome("kupu-kupu"))   // false
+	fmt.Println(Palindrome("lion"))        // false
 }

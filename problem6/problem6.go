@@ -2,31 +2,10 @@ package main
 
 import (
 	"fmt"
-	"strconv"
 )
 
-func Prima(N int) bool {
-	// your code here
-}
-
 func FullPrima(n int) bool {
-	digitPrima := map[int]bool{
-		2: true,
-		3: true,
-		5: true,
-		7: true,
-	}
-	if !Prima(n) {
-		return false
-	}
-	str := strconv.Itoa(n)
-	for _, s := range str {
-		val, _ := strconv.Atoi(string(s))
-		if _, exist := digitPrima[val]; !exist {
-			return false
-		}
-	}
-	return true // write your code
+	// write your code
 }
 
 func main() {
