@@ -6,7 +6,7 @@ clone project ini dengan cara
 git clone https://github.com/Immersive-Backend-Resource/Basic-Programming-Part2.git
 ```
 
-setelah clone selesai, jalankan perintah `cd Intro-to-Algoritm-Part2` -->  **HAL INI DILAKUKAN 1x saja**
+setelah clone selesai, jalankan perintah `cd Basic-Programming-Part2` -->  **HAL INI DILAKUKAN 1x saja**
 
 Setelah pindah folder, lakukan perintah dibawah ini secara berurutan :
 
