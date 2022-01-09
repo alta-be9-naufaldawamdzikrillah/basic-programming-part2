@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func KonversiNilai(nilai int) string {
-	// write your code
+	// your code here
 }
 
 func main() {

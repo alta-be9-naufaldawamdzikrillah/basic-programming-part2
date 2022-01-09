@@ -1,9 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func PrimeNumber(number int) bool {
-	// write your coude
+	// your code here
 }
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func FaktorBilangan(n int) string {
-	// Do your code here
+	// your code here
 }
 
 func main() {

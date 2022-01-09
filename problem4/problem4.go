@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func Palindrome(input string) bool {
-	// write your code
+	// your code here
 }
 
 func main() {

@@ -15,7 +15,7 @@ func TestKonversiNilai(t *testing.T) {
 		{
 			testcase: "test 70",
 			input:    70,
-			output:   "B",
+			output:   "B+",
 		},
 		{
 			testcase: "test 80",

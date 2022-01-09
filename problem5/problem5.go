@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func Pangkat(base, pangkat int) int {
-	// write your code
+	// your code here
 }
 
 func main() {
