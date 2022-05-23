@@ -4,6 +4,7 @@ import "fmt"
 
 func FaktorBilanganDesc(n int) string {
 	// your code here
+	
 }
 
 func main() {

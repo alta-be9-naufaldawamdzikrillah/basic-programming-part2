@@ -6,6 +6,16 @@ import (
 
 func FullPrima(n int) bool {
 	// write your code
+	if n >= 2 {
+		for i := 2; i < n; i++ {
+			if n%1 == 1 {
+				return false
+			}
+		}
+	} else {
+		return false
+	}
+	return true
 }
 
 func main() {
